@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "TheConfusionSmp.aternos.me",
-    "port": :52368,
+    "port": 52368,
     "version": "",
     "try-creative": false
   },
